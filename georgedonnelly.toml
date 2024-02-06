@@ -1,0 +1,22 @@
+file_version = "0.1"
+tags = [ "Programming", "javascript" ]
+
+[data]
+name = "George Donnelly"
+profile_image = "https://georgedonnelly.com/_astro/pro.-WVCxI4r_Z2ifyKX.webp.jpg"
+user_description = "Web3 coder, project manager, content writer, technical writer, sci-fi author, mountain hiker & dad. Hire me, freelance or remote FT!"
+payment_methods = [ "Crypto Currency", "PayPal", "Apple Pay" ]
+price = 100
+
+[[data.website]]
+text = "https://georgedonnelly.com/"
+id = "kgrtwv25m"
+
+[[services]]
+category = "Programming"
+sub_category = "javascript"
+title = "Web3 Full Stack Programmer"
+description = "I use a lot of React, NextJS, SolidJS, and many other related libraries to build Web3 dapps"
+price = 100
+service_image = [ "https://georgedonnelly.com/_astro/pro.-WVCxI4r_Z2ifyKX.webp.jpg" ]
+id = "vr4jzkr4y"
